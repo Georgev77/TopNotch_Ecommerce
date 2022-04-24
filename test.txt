@@ -1,0 +1,4 @@
+TestNG:
+1.installation
+2.Execution:Sequential
+
